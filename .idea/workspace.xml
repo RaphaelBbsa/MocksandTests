@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08fbf0b0-0fe0-446f-9297-73627f5938d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/ClienteDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/ClienteDaoMock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/ContrataDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/IClienteDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/IContratoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/ClienteService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/ContratoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/IcontratoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/TesteCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AllTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ClienteServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ContratoServiceTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="08fbf0b0-0fe0-446f-9297-73627f5938d6" name="Changes" comment="Subindo atividade com metodos a mais (buscar, atualizar, excluir)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +132,20 @@
       <option name="presentableId" value="Default" />
       <updated>1726870830136</updated>
     </task>
+    <task id="LOCAL-00001" summary="Subindo atividade com metodos a mais (buscar, atualizar, excluir)">
+      <option name="closed" value="true" />
+      <created>1727382693757</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727382693757</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Subindo atividade com metodos a mais (buscar, atualizar, excluir)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subindo atividade com metodos a mais (buscar, atualizar, excluir)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Mod23$ClienteServiceTest_esperadoErroNoSalvarTest.ic" NAME="ClienteServiceTest.esperadoErroNoSalvarTest Coverage Results" MODIFIED="1727272848567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
